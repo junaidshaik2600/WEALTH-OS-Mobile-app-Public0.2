@@ -1,0 +1,1 @@
+done with the check 6.2 the best version is this and also lets check and get some improvements. and i find. know i my eye just a copyright one thats all.
