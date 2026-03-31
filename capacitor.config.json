@@ -1,0 +1,8 @@
+{
+  "appId": "com.wealthos.app",
+  "appName": "WEALTH OS",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
